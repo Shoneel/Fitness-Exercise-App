@@ -2,7 +2,7 @@
 import React from "react";
 import { Stack, Typography } from "@mui/material";
 import Icon from "../assets/icons/gym.png";
-import { BorderTop } from "@mui/icons-material";
+
 
 // Functional component called BodyPart that receives props
 const BodyPart = ({ item, setBodyPart, bodyPart }) => {

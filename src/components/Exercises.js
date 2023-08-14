@@ -4,7 +4,7 @@ import { Box, Stack, Typography } from "@mui/material";
 
 import { exerciseOptions, fetchData } from "../utils/fetchData";
 import ExerciseCard from "./ExerciseCard";
-// import Loader from './Loader';
+import Loader from './Loader';
 
 const Exercises = ({ exercises, setExercises, bodyPart }) => {
   const [currentPage, setCurrentPage] = useState(1);
@@ -52,7 +52,7 @@ const Exercises = ({ exercises, setExercises, bodyPart }) => {
 
   // If there are no current exercises, show a loader
   // You might want to uncomment and import the Loader component
-  // if (!currentExercises.length) return <Loader />;
+  if (!currentExercises.length) return <Loader />;
 
   return (
     <Box id="exercises" sx={{ mt: { lg: "109px" } }} mt="50px" p="20px">
