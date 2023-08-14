@@ -20,7 +20,7 @@ Golds Gym React Fitness App is a comprehensive and feature-rich fitness applicat
 
 - **User-Friendly Interface:** Enjoy a clean and intuitive user interface that simplifies the process of finding, learning, and performing exercises.
 
-#Usage
+## Usage
 Upon launching the app, you'll be greeted with the home page displaying exercise categories.
 
 Select a category that aligns with your fitness interests.
@@ -31,5 +31,5 @@ In the exercise details page, you can find step-by-step instructions, images, an
 
 Use the pagination controls to navigate through the extensive exercise library.
 
-#Credits
+## Credits
 This app was created by Shoneel Kumar.
