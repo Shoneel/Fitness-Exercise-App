@@ -1,6 +1,6 @@
 # Gym Jao React Fitness App
 
-Golds Gym React Fitness App is a comprehensive and feature-rich fitness application designed to provide users with a wide range of exercise categories, specific muscle group selections, and a vast collection of practical exercise examples. This app allows users to access over one thousand exercises, complete with detailed descriptions, images, and even instructional videos sourced from YouTube. With a user-friendly interface and powerful functionality, Golds Gym React Fitness App sets a new standard for fitness apps on YouTube and across the internet.
+ Gym React Fitness App is a comprehensive and feature-rich fitness application designed to provide users with a wide range of exercise categories, specific muscle group selections, and a vast collection of practical exercise examples. This app allows users to access over one thousand exercises, complete with detailed descriptions, images, and even instructional videos sourced from YouTube. With a user-friendly interface and powerful functionality, Gym React Fitness App sets a new standard for fitness apps on YouTube and across the internet.
 
 ## Features
 
