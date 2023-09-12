@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Fitness-Exercise-App/static/css/main.20acbc28.css",
-    "main.js": "/Fitness-Exercise-App/static/js/main.09bcb64d.js",
+    "main.js": "/Fitness-Exercise-App/static/js/main.ac463966.js",
     "static/media/banner.jpg": "/Fitness-Exercise-App/static/media/banner.75848ebccd9bbe80d953.jpg",
     "static/media/Logo.png": "/Fitness-Exercise-App/static/media/Logo.78f5cd9b6319cc8a68fe.png",
     "static/media/shonzi-high-resolution-logo-white-on-transparent-background (1).png": "/Fitness-Exercise-App/static/media/shonzi-high-resolution-logo-white-on-transparent-background (1).3a3c0b3ce1ab16c75657.png",
     "static/media/gym.png": "/Fitness-Exercise-App/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/Fitness-Exercise-App/index.html",
     "main.20acbc28.css.map": "/Fitness-Exercise-App/static/css/main.20acbc28.css.map",
-    "main.09bcb64d.js.map": "/Fitness-Exercise-App/static/js/main.09bcb64d.js.map"
+    "main.ac463966.js.map": "/Fitness-Exercise-App/static/js/main.ac463966.js.map"
   },
   "entrypoints": [
     "static/css/main.20acbc28.css",
-    "static/js/main.09bcb64d.js"
+    "static/js/main.ac463966.js"
   ]
 }
