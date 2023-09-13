@@ -1,7 +1,6 @@
 {
   "name": "fitness-app-project",
   "version": "0.1.0",
-  "homepage": "https://Shoneel.github.io/Fitness-Exercise-App",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
